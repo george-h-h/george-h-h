@@ -1,1 +1,1 @@
-Hello there, I'm George, an aspiring software developer based in the London area.
+Hello there, I'm George, a Java developer based in the London area.
